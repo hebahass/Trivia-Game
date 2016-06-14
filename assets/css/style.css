@@ -1,0 +1,36 @@
+body {
+	background-image: url("http://media.harrypotter.bloomsbury.com/rep/g/page-background-shell%20-%202.png");
+	margin-top: 300px;
+}
+
+h1, h2 {
+  text-align: center;
+  color: white;
+  font-family: 'Shadows Into Light Two', cursive;
+  font-weight: bolder;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+h1 {
+	font-size: 50px;
+
+}
+
+form {
+	text-align: center;
+	color: white;
+	font-family: 'Shadows Into Light Two', cursive;
+	text-shadow: 4px 4px 4px #aaa;
+}
+
+input {
+	color: black;
+
+}
+
+span {
+	font-size: 20px;
+	font-family: 'Shadows Into Light Two', cursive;
+	font-weight: bold;
+	text-shadow: 4px 4px 4px #aaa;
+}
